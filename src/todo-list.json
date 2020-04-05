@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "text": "Buy chocolate",
+      "done": false
+    },
+    {
+      "text": "Buy milk",
+      "done": true
+    },
+    {
+      "text": "Go for a walk",
+      "done": false
+    },
+    {
+      "text": "Drink cup of coffee",
+      "done": false
+    },
+    {
+      "text": "C++ homework",
+      "done": true
+    }
+  ]
+}
